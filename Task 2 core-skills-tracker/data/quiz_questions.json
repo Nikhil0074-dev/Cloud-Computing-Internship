@@ -1,0 +1,12 @@
+[
+  {"topic": "Planning", "question": "What should you do before starting a task?",
+   "options": ["Start coding at once", "Write the steps first", "Skip to testing"], "answer": 1},
+  {"topic": "Testing", "question": "When should you test your work?",
+   "options": ["Only at the end", "After each small change", "Never"], "answer": 1},
+  {"topic": "Clean work", "question": "Why use clear names?",
+   "options": ["Others can read the work easily", "It makes work slower", "No reason"], "answer": 0},
+  {"topic": "Version control", "question": "Why save versions of your work?",
+   "options": ["To fill disk space", "To undo mistakes", "To hide work"], "answer": 1},
+  {"topic": "Learning", "question": "Best way to remember a new concept?",
+   "options": ["Only read about it", "Practise it right away", "Wait a month"], "answer": 1}
+]

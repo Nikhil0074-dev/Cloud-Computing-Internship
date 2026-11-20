@@ -1,0 +1,39 @@
+{
+  "concepts": [
+    {
+      "name": "Testing",
+      "why": "Finds errors early",
+      "done": true
+    }
+  ],
+  "practice": [
+    {
+      "concept": "Testing",
+      "note": "Wrote 5 unit tests",
+      "minutes": 45,
+      "date": "2026-11-20"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calculator tests",
+      "concept": "Testing"
+    },
+    {
+      "name": "Calculator tests",
+      "concept": "Testing"
+    }
+  ],
+  "feedback": [
+    {
+      "text": "Add more comments",
+      "fixed": true,
+      "date": "2026-11-20"
+    },
+    {
+      "text": "Add more comments",
+      "fixed": false,
+      "date": "2026-11-20"
+    }
+  ]
+}
